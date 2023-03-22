@@ -1,0 +1,18 @@
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#btn{
+    padding: 10px 16px;
+    border: none;
+    border-radius: 8px;
+    font-size: 25px;
+    font-weight: 600;
+    cursor: pointer;
+    background-color: #f85318;
+    color: #ffffff;
+}
